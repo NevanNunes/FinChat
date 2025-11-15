@@ -1,0 +1,125 @@
+# Financial Knowledge Base
+
+## Taxation
+
+### Income Tax Basics
+Income tax is a direct tax levied on income earned by individuals and entities. In India, tax rates are progressive - higher income means higher tax rates. Income up to ₹2.5 lakhs is tax-free under the old regime. The new tax regime offers lower rates but fewer deductions.
+
+### Tax Deductions
+Section 80C allows deductions up to ₹1.5 lakhs for investments in PPF, ELSS, life insurance premiums, and home loan principal. Section 80D covers health insurance premiums up to ₹25,000 (₹50,000 for senior citizens).
+
+### Capital Gains Tax
+Short-term capital gains (STCG) on equity held less than 1 year are taxed at 15%. Long-term capital gains (LTCG) above ₹1 lakh are taxed at 10% without indexation.
+
+## Mutual Funds
+
+### What are Mutual Funds
+Mutual funds pool money from multiple investors to invest in diversified portfolios of stocks, bonds, or other securities. Professional fund managers make investment decisions.
+
+### Types of Mutual Funds
+- Equity Funds: Invest primarily in stocks, higher risk and returns
+- Debt Funds: Invest in fixed-income securities, lower risk
+- Hybrid Funds: Mix of equity and debt
+- ELSS: Equity Linked Savings Scheme with 3-year lock-in and tax benefits under 80C
+
+### SIP vs Lumpsum
+SIP (Systematic Investment Plan) allows regular small investments, reduces timing risk through rupee cost averaging. Lumpsum is one-time investment, suitable when you have a large amount.
+
+### Mutual Fund Returns
+Past returns don't guarantee future performance. Equity funds historically give 12-15% returns long-term. Debt funds give 6-8%. Consider expense ratio - lower is better.
+
+## Insurance
+
+### Life Insurance
+Term insurance provides pure protection at low cost. Endowment plans mix insurance with savings. ULIPs combine insurance and investment. Term insurance is recommended for pure protection needs.
+
+### Health Insurance
+Covers hospitalization expenses. Family floater plans cover entire family. Critical illness riders provide lump sum for serious diseases. Adequate coverage is ₹5-10 lakhs minimum per person.
+
+### Insurance Premium Calculation
+Life insurance premium depends on age, health, sum assured, and policy term. Buy early for lower premiums. Health insurance premiums increase with age.
+
+## Government Schemes
+
+### Public Provident Fund (PPF)
+15-year investment scheme with tax-free returns. Current interest rate around 7.1%. Contributions eligible for 80C deduction. Maximum investment ₹1.5 lakhs per year.
+
+### National Pension System (NPS)
+Retirement savings scheme with low cost. Additional ₹50,000 deduction under 80CCD(1B) over 80C limit. 60% withdrawn tax-free at retirement, 40% must buy annuity.
+
+### Sukanya Samriddhi Yojana
+For girl child education and marriage. Highest interest among small savings schemes. Tax benefits under 80C. Matures when girl turns 21.
+
+### Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)
+₹2 lakh life insurance for ₹436 annual premium. Available to 18-50 age group with savings bank account.
+
+### Atal Pension Yojana (APY)
+Pension scheme for unorganized sector. Guaranteed monthly pension of ₹1,000 to ₹5,000 after age 60.
+
+## Fixed Deposits
+
+### Bank Fixed Deposits
+Safe investment with guaranteed returns. Interest rates typically 5-7%. Interest is taxable. Premature withdrawal penalties apply. Senior citizens get 0.5% extra interest.
+
+### Tax Saving FDs
+5-year lock-in period. Eligible for 80C deduction. Interest still taxable. Lower returns compared to equity instruments.
+
+## Equity Market
+
+### Stock Market Basics
+Stocks represent ownership in companies. BSE and NSE are major Indian exchanges. Stocks offer high returns but high risk. Diversification is important.
+
+### Long-term vs Short-term
+Long-term investing (5+ years) reduces risk and benefits from compounding. Short-term trading is riskier and requires expertise.
+
+### Dividend vs Growth
+Dividend stocks provide regular income. Growth stocks reinvest profits for capital appreciation. Choice depends on investment goals.
+
+## Government Bonds
+
+### Types of Bonds
+Government securities (G-Secs) are safest with sovereign guarantee. Corporate bonds offer higher yields but carry credit risk. Tax-free bonds available for specific infrastructure projects.
+
+### Bond Returns
+Bond yields move inverse to prices. Long-duration bonds are more volatile. Government bonds typically yield 6-7%.
+
+## Investment Strategy
+
+### Asset Allocation
+Diversify across asset classes based on age and risk appetite. Common formula: Equity% = 100 - age. Rebalance annually.
+
+### Risk Profile
+Aggressive investors can take 70-80% equity. Conservative investors should limit equity to 20-30%. Moderate investors can have 50% equity.
+
+### Emergency Fund
+Maintain 6 months of expenses in liquid funds or savings account before investing. This prevents premature withdrawal of investments.
+
+### Investment Duration
+Short-term (< 3 years): Debt funds, FDs
+Medium-term (3-5 years): Balanced funds, debt funds
+Long-term (5+ years): Equity funds, stocks, PPF
+
+### Investment Goals
+Retirement planning: Start early, invest in equity for long-term
+Child education: Plan 15-20 years ahead, use mix of equity and debt
+Home purchase: Medium to long-term, progressive debt allocation
+
+## Common Mistakes to Avoid
+
+### Investment Mistakes
+- Putting all money in one investment
+- Investing without emergency fund
+- Ignoring inflation impact
+- Chasing past returns
+- Not reviewing portfolio regularly
+- Investing based on tips
+- Panic selling during market falls
+
+### Insurance Mistakes
+- Buying insurance as investment
+- Insufficient coverage
+- Not disclosing health conditions
+- Letting policies lapse
+- Not reviewing beneficiaries
+OPENAI_API_KEY=your_openai_api_key_here
+

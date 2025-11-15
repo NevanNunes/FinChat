@@ -1,0 +1,2066 @@
+[
+  {
+    "query": "Infosys stock price",
+    "category": "Stock",
+    "time": 9.728,
+    "response_type": "finance_response",
+    "data": {
+      "company": "Infosys Limited",
+      "symbol": "INFY.NS",
+      "price": 1506.5,
+      "change": -35.3,
+      "change_percent": -2.29,
+      "volume": 2028094,
+      "day_high": 1530.0,
+      "day_low": 1501.2,
+      "market_cap": 6244909187072,
+      "pe_ratio": 21.57,
+      "dividend_yield": 292.0,
+      "dividend_rate": 45.0,
+      "payout_ratio": 64.24,
+      "data_source": "Yahoo Finance (NSE)"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Tata Motors price today",
+    "category": "Stock",
+    "time": 4.499,
+    "response_type": "finance_response",
+    "data": {
+      "company": "Tata Capital Limited",
+      "symbol": "TATACAP.NS",
+      "price": 323.7,
+      "change": -0.1,
+      "change_percent": -0.03,
+      "volume": 352753,
+      "day_high": 325.0,
+      "day_low": 322.45,
+      "market_cap": 1373701537792,
+      "pe_ratio": 32.53,
+      "dividend_yield": 0,
+      "dividend_rate": 0,
+      "payout_ratio": 0,
+      "data_source": "Yahoo Finance (NSE)"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Adani Enterprises latest price",
+    "category": "Stock",
+    "time": 4.622,
+    "response_type": "finance_response",
+    "data": {
+      "company": "Adani Energy Solutions Limited",
+      "symbol": "ADANIENSOL.NS",
+      "price": 1041.1,
+      "change": 19.7,
+      "change_percent": 1.93,
+      "volume": 944841,
+      "day_high": 1050.0,
+      "day_low": 1024.1,
+      "market_cap": 1251135979520,
+      "pe_ratio": 55.28,
+      "dividend_yield": 0,
+      "dividend_rate": 0,
+      "payout_ratio": 0,
+      "data_source": "Yahoo Finance (NSE)"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "What is HDFC Bank trading at right now",
+    "category": "Stock",
+    "time": 3.622,
+    "response_type": "finance_response",
+    "data": {
+      "error": "No data available for HDFC.NS"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "ICICI Bank share price",
+    "category": "Stock",
+    "time": 4.21,
+    "response_type": "finance_response",
+    "data": {
+      "error": "No data available for ICIBK0204.NS"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "State Bank of India live price",
+    "category": "Stock",
+    "time": 1.942,
+    "response_type": "finance_response",
+    "data": {
+      "error": "No data available for SBBJ.NS"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Asian Paints stock price",
+    "category": "Stock",
+    "time": 3.672,
+    "response_type": "finance_response",
+    "data": {
+      "company": "Asian Paints Limited",
+      "symbol": "ASIANPAINT.NS",
+      "price": 2892.5,
+      "change": 13.1,
+      "change_percent": 0.45,
+      "volume": 643507,
+      "day_high": 2903.9,
+      "day_low": 2862.0,
+      "market_cap": 2772687650816,
+      "pe_ratio": 71.03,
+      "dividend_yield": 90.0,
+      "dividend_rate": 25.05,
+      "payout_ratio": 61.04,
+      "data_source": "Yahoo Finance (NSE)"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "UltraTech Cement share price",
+    "category": "Stock",
+    "time": 4.206,
+    "response_type": "finance_response",
+    "data": {
+      "company": "UltraTech Cement Limited",
+      "symbol": "ULTRACEMCO.NS",
+      "price": 11865.0,
+      "change": -69.0,
+      "change_percent": -0.58,
+      "volume": 17522,
+      "day_high": 11941.0,
+      "day_low": 11852.0,
+      "market_cap": 3496914976768,
+      "pe_ratio": 47.85,
+      "dividend_yield": 65.0,
+      "dividend_rate": 77.5,
+      "payout_ratio": 31.26,
+      "data_source": "Yahoo Finance (NSE)"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Bharti Airtel stock price",
+    "category": "Stock",
+    "time": 2.619,
+    "response_type": "finance_response",
+    "data": {
+      "error": "No data available for AIRTELPP.NS"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Dividend yield of TCS",
+    "category": "Metric",
+    "time": 3.882,
+    "response_type": "finance_response",
+    "data": {
+      "company": "Tata Consultancy Services Limited",
+      "symbol": "TCS.NS",
+      "dividend_yield": 198.0,
+      "dividend_rate": 62.0,
+      "data_source": "Yahoo Finance (NSE)"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "P/E ratio of Infosys",
+    "category": "Metric",
+    "time": 2.895,
+    "response_type": "finance_response",
+    "data": {
+      "company": "Infosys Limited",
+      "symbol": "INFY.NS",
+      "pe_ratio": 21.58,
+      "data_source": "Yahoo Finance (NSE)"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Price to earnings of Reliance",
+    "category": "Metric",
+    "time": 1.697,
+    "response_type": "finance_response",
+    "data": {
+      "error": "Could not find ticker for 'Price to earnings of Reliance' on NSE. Please try the exact company name (e.g., 'Reliance Industries', 'Infosys Limited')."
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "price of reliance motor",
+    "category": "Stock",
+    "time": 1.258,
+    "response_type": "finance_response",
+    "data": {
+      "error": "Could not find ticker for 'price of reliance motor' on NSE. Please try the exact company name (e.g., 'Reliance Industries', 'Infosys Limited')."
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "show me share for 'icci'",
+    "category": "Stock",
+    "time": 4.011,
+    "response_type": "finance_response",
+    "data": {
+      "error": "No data available for SHARE-RE.NS"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "stock of RIL",
+    "category": "Stock",
+    "time": 1.666,
+    "response_type": "finance_response",
+    "data": {
+      "error": "Could not find ticker for 'stock of RIL' on NSE. Please try the exact company name (e.g., 'Reliance Industries', 'Infosys Limited')."
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Nifty BeES price",
+    "category": "ETF",
+    "time": 3.31,
+    "response_type": "finance_response",
+    "data": {
+      "etf_name": "NIFTY",
+      "ticker": "^NSEI",
+      "price": 25795.95,
+      "change": -83.2,
+      "change_percent": -0.32,
+      "volume": 0,
+      "data_source": "Yahoo Finance"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Bank BeES latest price",
+    "category": "ETF",
+    "time": 0.839,
+    "response_type": "finance_response",
+    "data": {
+      "error": "ETF 'Bank BeES latest price' not found"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Axis Bluechip Fund direct growth nav",
+    "category": "MF NAV",
+    "time": 2.849,
+    "response_type": "finance_response",
+    "data": {
+      "name": "Principal Emerging Bluechip Fund - Direct Plan - Growth Option",
+      "nav": 197.96,
+      "fund_house": "Principal Mutual Fund",
+      "returns_1y": 45.47,
+      "returns_3y": 23.45,
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "HDFC Midcap Opportunities NAV",
+    "category": "MF NAV",
+    "time": 2.964,
+    "response_type": "finance_response",
+    "data": {
+      "name": "HDFC NIFTY Midcap 150 ETF - Growth Option",
+      "nav": 22.5375,
+      "fund_house": "HDFC Mutual Fund",
+      "returns_1y": 7.42,
+      "returns_3y": 0.0,
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Mirae Asset Large Cap Direct plan nav",
+    "category": "MF NAV",
+    "time": 3.572,
+    "response_type": "finance_response",
+    "data": {
+      "name": "Mirae Asset Large Cap Fund - Direct Plan - Growth",
+      "nav": 132.163,
+      "fund_house": "Mirae Asset Mutual Fund",
+      "returns_1y": 9.9,
+      "returns_3y": 16.1,
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "SBI Small Cap Fund nav",
+    "category": "MF NAV",
+    "time": 3.896,
+    "response_type": "finance_response",
+    "data": {
+      "name": "SBI Small Cap Fund - Regular Plan - Growth",
+      "nav": 171.2967,
+      "fund_house": "SBI Mutual Fund",
+      "returns_1y": -4.91,
+      "returns_3y": 14.35,
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "best large cap funds",
+    "category": "MF Category",
+    "time": 11.315,
+    "response_type": "finance_response",
+    "data": {
+      "success": true,
+      "category": "Large Cap",
+      "funds": [
+        {
+          "name": "CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - GROWTH OPTION",
+          "nav": 74.94,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 8.56,
+          "returns_3y": 18.36,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment)",
+          "nav": 57.47,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 3.29,
+          "returns_3y": 16.02,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment)",
+          "nav": 134.93,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 0.81,
+          "returns_3y": 14.26,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - GROWTH OPTION",
+          "nav": 297.06,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 5.9,
+          "returns_3y": 18.51,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Bandhan Large & Mid Cap Fund - Direct Plan - Growth",
+          "nav": 164.778,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": 9.28,
+          "returns_3y": 26.93,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Bandhan Large & Mid Cap Fund - Direct Plan - IDCW",
+          "nav": 40.472,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": 1.67,
+          "returns_3y": 18.68,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India Large Cap Fund - Direct - IDCW",
+          "nav": 56.8814,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": -1.64,
+          "returns_3y": 6.88,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "BANDHAN Large Cap Fund-Direct Plan-IDCW",
+          "nav": 30.935,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": 0.63,
+          "returns_3y": 11.25,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "BANDHAN Large Cap Fund-Direct Plan-Growth",
+          "nav": 92.116,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": 8.06,
+          "returns_3y": 19.05,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India Large & Mid cap Fund - Direct - IDCW",
+          "nav": 25.7644,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": 0.47,
+          "returns_3y": 9.54,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        }
+      ],
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "top elss funds right now",
+    "category": "MF Category",
+    "time": 12.672,
+    "response_type": "finance_response",
+    "data": {
+      "success": true,
+      "category": "Elss",
+      "funds": [
+        {
+          "name": "Quantum ELSS Tax Saver Fund - Direct Plan Growth Option",
+          "nav": 132.47,
+          "fund_house": "Quantum Mutual Fund",
+          "returns_1y": 3.69,
+          "returns_3y": 19.85,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Quantum ELSS Tax Saver Fund - Direct Plan IDCW",
+          "nav": 131.61,
+          "fund_house": "Quantum Mutual Fund",
+          "returns_1y": 3.01,
+          "returns_3y": 19.59,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - GROWTH OPTION",
+          "nav": 202.31,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 6.17,
+          "returns_3y": 17.69,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - IDCW (Payout)",
+          "nav": 82.52,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 0.92,
+          "returns_3y": 13.43,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "BANDHAN ELSS Tax Saver Fund - Direct Plan - IDCW",
+          "nav": 44.658,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": -2.05,
+          "returns_3y": 10.11,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "BANDHAN ELSS Tax Saver Fund - Direct Plan - Growth",
+          "nav": 180.83,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": 5.29,
+          "returns_3y": 17.81,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India ELSS Tax Saver Fund - Direct - Growth",
+          "nav": 1680.4189,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": 5.19,
+          "returns_3y": 20.95,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India ELSS Tax Saver Fund - Direct - IDCW",
+          "nav": 79.1918,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": -2.1,
+          "returns_3y": 12.25,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Edelweiss ELSS Tax Saver Fund - Direct Plan - IDCW Option",
+          "nav": 46.05,
+          "fund_house": "Edelweiss Mutual Fund",
+          "returns_1y": 7.42,
+          "returns_3y": 18.34,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Edelweiss ELSS Tax Saver Fund - Direct Plan-Growth Option",
+          "nav": 136.18,
+          "fund_house": "Edelweiss Mutual Fund",
+          "returns_1y": 7.4,
+          "returns_3y": 19.79,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        }
+      ],
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "top aggressive hybrid funds",
+    "category": "MF Category",
+    "time": 11.027,
+    "response_type": "finance_response",
+    "data": {
+      "success": true,
+      "category": "Hybrid",
+      "funds": [
+        {
+          "name": "CANARA ROBECO EQUITY HYBRID FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment)",
+          "nav": 135.72,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 1.5,
+          "returns_3y": 9.34,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO EQUITY HYBRID FUND - DIRECT PLAN - GROWTH OPTION",
+          "nav": 419.41,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 7.25,
+          "returns_3y": 16.3,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO CONSERVATIVE HYBRID FUND - DIRECT PLAN - GROWTH OPTION",
+          "nav": 112.7823,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 6.75,
+          "returns_3y": 10.25,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO CONSERVATIVE HYBRID FUND - DIRECT PLAN - QUARTERLY IDCW (Payout/Reinvestment)",
+          "nav": 16.6518,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": -0.53,
+          "returns_3y": 2.29,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO CONSERVATIVE HYBRID FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment)",
+          "nav": 16.5492,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": -0.71,
+          "returns_3y": 1.95,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW",
+          "nav": 13.5231,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": -16.13,
+          "returns_3y": -3.16,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "BANDHAN Conservative Hybrid Fund-Direct Plan-Growth",
+          "nav": 36.5003,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": 6.91,
+          "returns_3y": 8.91,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "BANDHAN Conservative Hybrid Fund-Direct Plan-Quarterly IDCW",
+          "nav": 16.6938,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": 0.61,
+          "returns_3y": 2.93,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India Aggressive Hybrid Fund - Direct - Growth",
+          "nav": 316.0518,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": 7.18,
+          "returns_3y": 17.2,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India Aggressive Hybrid Fund - Direct - IDCW",
+          "nav": 35.2232,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": -1.47,
+          "returns_3y": 7.82,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        }
+      ],
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "best small cap mutual funds",
+    "category": "MF Category",
+    "time": 9.71,
+    "response_type": "finance_response",
+    "data": {
+      "success": true,
+      "category": "Small Cap",
+      "funds": [
+        {
+          "name": "Franklin India Small Cap Fund - Direct - IDCW",
+          "nav": 56.0133,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": -13.02,
+          "returns_3y": 12.37,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India Small Cap Fund - Direct - Growth",
+          "nav": 193.4514,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": -3.14,
+          "returns_3y": 23.46,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "NIPPON INDIA SMALL CAP FUND - Direct Plan - IDCW Option",
+          "nav": 104.805,
+          "fund_house": "Nippon India Mutual Fund",
+          "returns_1y": -9.9,
+          "returns_3y": 14.87,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Nippon India Small Cap Fund - Direct Plan Growth Plan - Bonus Option",
+          "nav": 190.8692,
+          "fund_house": "Nippon India Mutual Fund",
+          "returns_1y": -2.47,
+          "returns_3y": 24.22,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Nippon India Small Cap Fund - Direct Plan Growth Plan - Growth Option",
+          "nav": 190.8692,
+          "fund_house": "Nippon India Mutual Fund",
+          "returns_1y": -2.47,
+          "returns_3y": 24.22,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "DSP Small Cap Fund - Direct Plan - Growth",
+          "nav": 218.347,
+          "fund_house": "DSP Mutual Fund",
+          "returns_1y": 1.51,
+          "returns_3y": 21.71,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "DSP Small Cap Fund - Direct Plan - IDCW",
+          "nav": 64.996,
+          "fund_house": "DSP Mutual Fund",
+          "returns_1y": -7.34,
+          "returns_3y": 11.71,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Aditya Birla Sun Life Small Cap Fund - Growth - Direct Plan",
+          "nav": 99.6872,
+          "fund_house": "Aditya Birla Sun Life Mutual Fund",
+          "returns_1y": -0.84,
+          "returns_3y": 20.12,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Aditya Birla Sun Life Small Cap Fund -Direct - IDCW",
+          "nav": 69.9725,
+          "fund_house": "Aditya Birla Sun Life Mutual Fund",
+          "returns_1y": -6.76,
+          "returns_3y": 12.21,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Sundaram Small Cap Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW)",
+          "nav": 38.7412,
+          "fund_house": "Sundaram Mutual Fund",
+          "returns_1y": -3.88,
+          "returns_3y": 11.61,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        }
+      ],
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "best mid cap mutual funds",
+    "category": "MF Category",
+    "time": 11.158,
+    "response_type": "finance_response",
+    "data": {
+      "success": true,
+      "category": "Mid Cap",
+      "funds": [
+        {
+          "name": "CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment)",
+          "nav": 134.93,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 0.81,
+          "returns_3y": 14.26,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - GROWTH OPTION",
+          "nav": 297.06,
+          "fund_house": "Canara Robeco Mutual Fund",
+          "returns_1y": 5.9,
+          "returns_3y": 18.51,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Bandhan Large & Mid Cap Fund - Direct Plan - Growth",
+          "nav": 164.778,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": 9.28,
+          "returns_3y": 26.93,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Bandhan Large & Mid Cap Fund - Direct Plan - IDCW",
+          "nav": 40.472,
+          "fund_house": "Bandhan Mutual Fund",
+          "returns_1y": 1.67,
+          "returns_3y": 18.68,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India Large & Mid cap Fund - Direct - IDCW",
+          "nav": 25.7644,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": 0.47,
+          "returns_3y": 9.54,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India Large & Mid Cap Fund - Direct - Growth",
+          "nav": 217.1398,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": 8.9,
+          "returns_3y": 19.33,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India Mid Cap Fund - Direct - IDCW",
+          "nav": 114.9335,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": -3.33,
+          "returns_3y": 14.51,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Franklin India Mid Cap Fund - Direct - Growth",
+          "nav": 3164.1441,
+          "fund_house": "Franklin Templeton Mutual Fund",
+          "returns_1y": 5.09,
+          "returns_3y": 24.2,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Nippon India Growth Mid Cap Fund - Direct Plan Growth Plan - Bonus Option",
+          "nav": 778.6432,
+          "fund_house": "Nippon India Mutual Fund",
+          "returns_1y": 7.21,
+          "returns_3y": 27.26,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "NIPPON INDIA GROWTH MID CAP FUND - DIRECT Plan - IDCW Option",
+          "nav": 196.047,
+          "fund_house": "Nippon India Mutual Fund",
+          "returns_1y": -0.64,
+          "returns_3y": 19.76,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        }
+      ],
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Calculate SIP 5000 for 10 years at 14%",
+    "category": "Calculator",
+    "time": 3.501,
+    "response_type": "finance_response",
+    "data": {
+      "monthly_sip": 5000,
+      "years": 10,
+      "investment_period": "10 years",
+      "expected_return": 0.12,
+      "expected_return_display": "12.0%",
+      "total_invested": 600000,
+      "maturity_amount": 1161695.0,
+      "gains": 561695.0,
+      "returns_percentage": 93.62,
+      "calculation_breakdown": {
+        "step1_monthly_sip": 5000,
+        "step2_total_months": 120,
+        "step3_monthly_rate": 1.0,
+        "step4_total_invested": 600000,
+        "step5_maturity_value": 1161695.0,
+        "step6_total_gains": 561695.0,
+        "step7_returns_percent": 93.62
+      },
+      "yearly_breakdown": [
+        {
+          "year": 1,
+          "invested": 60000,
+          "value": 64047.0,
+          "gains": 4047.0
+        },
+        {
+          "year": 2,
+          "invested": 120000,
+          "value": 136216.0,
+          "gains": 16216.0
+        },
+        {
+          "year": 3,
+          "invested": 180000,
+          "value": 217538.0,
+          "gains": 37538.0
+        },
+        {
+          "year": 4,
+          "invested": 240000,
+          "value": 309174.0,
+          "gains": 69174.0
+        },
+        {
+          "year": 5,
+          "invested": 300000,
+          "value": 412432.0,
+          "gains": 112432.0
+        },
+        {
+          "year": 6,
+          "invested": 360000,
+          "value": 528785.0,
+          "gains": 168785.0
+        },
+        {
+          "year": 7,
+          "invested": 420000,
+          "value": 659895.0,
+          "gains": 239895.0
+        },
+        {
+          "year": 8,
+          "invested": 480000,
+          "value": 807633.0,
+          "gains": 327633.0
+        },
+        {
+          "year": 9,
+          "invested": 540000,
+          "value": 974108.0,
+          "gains": 434108.0
+        },
+        {
+          "year": 10,
+          "invested": 600000,
+          "value": 1161695.0,
+          "gains": 561695.0
+        }
+      ],
+      "milestones": {
+        "year_5": {
+          "year": 5,
+          "invested": 300000,
+          "value": 412432.0,
+          "gains": 112432.0
+        },
+        "year_10": {
+          "year": 10,
+          "invested": 600000,
+          "value": 1161695.0,
+          "gains": 561695.0
+        },
+        "year_15": null,
+        "year_20": null
+      }
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "SIP 10000 for 35 years",
+    "category": "Calculator",
+    "time": 3.971,
+    "response_type": "finance_response",
+    "data": {
+      "monthly_sip": 10000,
+      "years": 35,
+      "investment_period": "35 years",
+      "expected_return": 0.12,
+      "expected_return_display": "12.0%",
+      "total_invested": 4200000,
+      "maturity_amount": 64952691.0,
+      "gains": 60752691.0,
+      "returns_percentage": 1446.49,
+      "calculation_breakdown": {
+        "step1_monthly_sip": 10000,
+        "step2_total_months": 420,
+        "step3_monthly_rate": 1.0,
+        "step4_total_invested": 4200000,
+        "step5_maturity_value": 64952691.0,
+        "step6_total_gains": 60752691.0,
+        "step7_returns_percent": 1446.49
+      },
+      "yearly_breakdown": [
+        {
+          "year": 1,
+          "invested": 120000,
+          "value": 128093.0,
+          "gains": 8093.0
+        },
+        {
+          "year": 2,
+          "invested": 240000,
+          "value": 272432.0,
+          "gains": 32432.0
+        },
+        {
+          "year": 3,
+          "invested": 360000,
+          "value": 435076.0,
+          "gains": 75076.0
+        },
+        {
+          "year": 4,
+          "invested": 480000,
+          "value": 618348.0,
+          "gains": 138348.0
+        },
+        {
+          "year": 5,
+          "invested": 600000,
+          "value": 824864.0,
+          "gains": 224864.0
+        },
+        {
+          "year": 6,
+          "invested": 720000,
+          "value": 1057570.0,
+          "gains": 337570.0
+        },
+        {
+          "year": 7,
+          "invested": 840000,
+          "value": 1319790.0,
+          "gains": 479790.0
+        },
+        {
+          "year": 8,
+          "invested": 960000,
+          "value": 1615266.0,
+          "gains": 655266.0
+        },
+        {
+          "year": 9,
+          "invested": 1080000,
+          "value": 1948215.0,
+          "gains": 868215.0
+        },
+        {
+          "year": 10,
+          "invested": 1200000,
+          "value": 2323391.0,
+          "gains": 1123391.0
+        },
+        {
+          "year": 11,
+          "invested": 1320000,
+          "value": 2746148.0,
+          "gains": 1426148.0
+        },
+        {
+          "year": 12,
+          "invested": 1440000,
+          "value": 3222522.0,
+          "gains": 1782522.0
+        },
+        {
+          "year": 13,
+          "invested": 1560000,
+          "value": 3759311.0,
+          "gains": 2199311.0
+        },
+        {
+          "year": 14,
+          "invested": 1680000,
+          "value": 4364180.0,
+          "gains": 2684180.0
+        },
+        {
+          "year": 15,
+          "invested": 1800000,
+          "value": 5045760.0,
+          "gains": 3245760.0
+        },
+        {
+          "year": 16,
+          "invested": 1920000,
+          "value": 5813782.0,
+          "gains": 3893782.0
+        },
+        {
+          "year": 17,
+          "invested": 2040000,
+          "value": 6679208.0,
+          "gains": 4639208.0
+        },
+        {
+          "year": 18,
+          "invested": 2160000,
+          "value": 7654392.0,
+          "gains": 5494392.0
+        },
+        {
+          "year": 19,
+          "invested": 2280000,
+          "value": 8753254.0,
+          "gains": 6473254.0
+        },
+        {
+          "year": 20,
+          "invested": 2400000,
+          "value": 9991479.0,
+          "gains": 7591479.0
+        },
+        {
+          "year": 21,
+          "invested": 2520000,
+          "value": 11386742.0,
+          "gains": 8866742.0
+        },
+        {
+          "year": 22,
+          "invested": 2640000,
+          "value": 12958959.0,
+          "gains": 10318959.0
+        },
+        {
+          "year": 23,
+          "invested": 2760000,
+          "value": 14730573.0,
+          "gains": 11970573.0
+        },
+        {
+          "year": 24,
+          "invested": 2880000,
+          "value": 16726872.0,
+          "gains": 13846872.0
+        },
+        {
+          "year": 25,
+          "invested": 3000000,
+          "value": 18976351.0,
+          "gains": 15976351.0
+        },
+        {
+          "year": 26,
+          "invested": 3120000,
+          "value": 21511120.0,
+          "gains": 18391120.0
+        },
+        {
+          "year": 27,
+          "invested": 3240000,
+          "value": 24367362.0,
+          "gains": 21127362.0
+        },
+        {
+          "year": 28,
+          "invested": 3360000,
+          "value": 27585847.0,
+          "gains": 24225847.0
+        },
+        {
+          "year": 29,
+          "invested": 3480000,
+          "value": 31212516.0,
+          "gains": 27732516.0
+        },
+        {
+          "year": 30,
+          "invested": 3600000,
+          "value": 35299138.0,
+          "gains": 31699138.0
+        },
+        {
+          "year": 31,
+          "invested": 3720000,
+          "value": 39904045.0,
+          "gains": 36184045.0
+        },
+        {
+          "year": 32,
+          "invested": 3840000,
+          "value": 45092970.0,
+          "gains": 41252970.0
+        },
+        {
+          "year": 33,
+          "invested": 3960000,
+          "value": 50939981.0,
+          "gains": 46979981.0
+        },
+        {
+          "year": 34,
+          "invested": 4080000,
+          "value": 57528539.0,
+          "gains": 53448539.0
+        },
+        {
+          "year": 35,
+          "invested": 4200000,
+          "value": 64952691.0,
+          "gains": 60752691.0
+        }
+      ],
+      "milestones": {
+        "year_5": {
+          "year": 5,
+          "invested": 600000,
+          "value": 824864.0,
+          "gains": 224864.0
+        },
+        "year_10": {
+          "year": 10,
+          "invested": 1200000,
+          "value": 2323391.0,
+          "gains": 1123391.0
+        },
+        "year_15": {
+          "year": 15,
+          "invested": 1800000,
+          "value": 5045760.0,
+          "gains": 3245760.0
+        },
+        "year_20": {
+          "year": 20,
+          "invested": 2400000,
+          "value": 9991479.0,
+          "gains": 7591479.0
+        }
+      }
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "SIP 2000 for 5 years",
+    "category": "Calculator",
+    "time": 2.344,
+    "response_type": "finance_response",
+    "data": {
+      "monthly_sip": 2000,
+      "years": 5,
+      "investment_period": "5 years",
+      "expected_return": 0.12,
+      "expected_return_display": "12.0%",
+      "total_invested": 120000,
+      "maturity_amount": 164973.0,
+      "gains": 44973.0,
+      "returns_percentage": 37.48,
+      "calculation_breakdown": {
+        "step1_monthly_sip": 2000,
+        "step2_total_months": 60,
+        "step3_monthly_rate": 1.0,
+        "step4_total_invested": 120000,
+        "step5_maturity_value": 164973.0,
+        "step6_total_gains": 44973.0,
+        "step7_returns_percent": 37.48
+      },
+      "yearly_breakdown": [
+        {
+          "year": 1,
+          "invested": 24000,
+          "value": 25619.0,
+          "gains": 1619.0
+        },
+        {
+          "year": 2,
+          "invested": 48000,
+          "value": 54486.0,
+          "gains": 6486.0
+        },
+        {
+          "year": 3,
+          "invested": 72000,
+          "value": 87015.0,
+          "gains": 15015.0
+        },
+        {
+          "year": 4,
+          "invested": 96000,
+          "value": 123670.0,
+          "gains": 27670.0
+        },
+        {
+          "year": 5,
+          "invested": 120000,
+          "value": 164973.0,
+          "gains": 44973.0
+        }
+      ],
+      "milestones": {
+        "year_5": {
+          "year": 5,
+          "invested": 120000,
+          "value": 164973.0,
+          "gains": 44973.0
+        },
+        "year_10": null,
+        "year_15": null,
+        "year_20": null
+      }
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "EMI for 30 lakh at 8% for 20 years",
+    "category": "Calculator",
+    "time": 3.372,
+    "response_type": "finance_response",
+    "data": {
+      "loan_amount": 3000000,
+      "interest_rate": 8.0,
+      "interest_rate_display": "8.0%",
+      "tenure": "20 years",
+      "tenure_years": 20,
+      "tenure_months": 240,
+      "monthly_emi": 25093.0,
+      "total_payment": 6022368.0,
+      "total_interest": 3022368.0,
+      "principal_percentage": 49.81,
+      "interest_percentage": 50.19,
+      "calculation_breakdown": {
+        "step1_loan_amount": 3000000,
+        "step2_monthly_interest_rate": 0.6667,
+        "step3_total_months": 240,
+        "step4_monthly_emi": 25093.0,
+        "step5_total_payment": 6022368.0,
+        "step6_total_interest": 3022368.0,
+        "step7_interest_to_principal_ratio": 1.01
+      },
+      "yearly_breakdown": [
+        {
+          "year": 1,
+          "principal_paid": 63410.0,
+          "interest_paid": 237708.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2936590.0
+        },
+        {
+          "year": 2,
+          "principal_paid": 68673.0,
+          "interest_paid": 232445.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2867917.0
+        },
+        {
+          "year": 3,
+          "principal_paid": 74373.0,
+          "interest_paid": 226746.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2793544.0
+        },
+        {
+          "year": 4,
+          "principal_paid": 80546.0,
+          "interest_paid": 220573.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2712998.0
+        },
+        {
+          "year": 5,
+          "principal_paid": 87231.0,
+          "interest_paid": 213887.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2625768.0
+        },
+        {
+          "year": 6,
+          "principal_paid": 94471.0,
+          "interest_paid": 206647.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2531296.0
+        },
+        {
+          "year": 7,
+          "principal_paid": 102312.0,
+          "interest_paid": 198806.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2428984.0
+        },
+        {
+          "year": 8,
+          "principal_paid": 110804.0,
+          "interest_paid": 190314.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2318180.0
+        },
+        {
+          "year": 9,
+          "principal_paid": 120001.0,
+          "interest_paid": 181118.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2198180.0
+        },
+        {
+          "year": 10,
+          "principal_paid": 129961.0,
+          "interest_paid": 171158.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2068219.0
+        },
+        {
+          "year": 11,
+          "principal_paid": 140747.0,
+          "interest_paid": 160371.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 1927472.0
+        },
+        {
+          "year": 12,
+          "principal_paid": 152429.0,
+          "interest_paid": 148689.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 1775042.0
+        },
+        {
+          "year": 13,
+          "principal_paid": 165081.0,
+          "interest_paid": 136038.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 1609961.0
+        },
+        {
+          "year": 14,
+          "principal_paid": 178783.0,
+          "interest_paid": 122336.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 1431179.0
+        },
+        {
+          "year": 15,
+          "principal_paid": 193621.0,
+          "interest_paid": 107497.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 1237557.0
+        },
+        {
+          "year": 16,
+          "principal_paid": 209692.0,
+          "interest_paid": 91427.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 1027866.0
+        },
+        {
+          "year": 17,
+          "principal_paid": 227096.0,
+          "interest_paid": 74022.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 800769.0
+        },
+        {
+          "year": 18,
+          "principal_paid": 245945.0,
+          "interest_paid": 55173.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 554824.0
+        },
+        {
+          "year": 19,
+          "principal_paid": 266358.0,
+          "interest_paid": 34760.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 288466.0
+        },
+        {
+          "year": 20,
+          "principal_paid": 288466.0,
+          "interest_paid": 12652.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 0.0
+        }
+      ],
+      "milestones": {
+        "year_1": {
+          "year": 1,
+          "principal_paid": 63410.0,
+          "interest_paid": 237708.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2936590.0
+        },
+        "year_5": {
+          "year": 5,
+          "principal_paid": 87231.0,
+          "interest_paid": 213887.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2625768.0
+        },
+        "year_10": {
+          "year": 10,
+          "principal_paid": 129961.0,
+          "interest_paid": 171158.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 2068219.0
+        },
+        "year_15": {
+          "year": 15,
+          "principal_paid": 193621.0,
+          "interest_paid": 107497.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 1237557.0
+        },
+        "year_20": {
+          "year": 20,
+          "principal_paid": 288466.0,
+          "interest_paid": 12652.0,
+          "total_paid": 301118.0,
+          "remaining_balance": 0.0
+        }
+      },
+      "summary": {
+        "first_year_principal": 63410.0,
+        "first_year_interest": 237708.0,
+        "last_year_principal": 288466.0,
+        "last_year_interest": 12652.0
+      }
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Loan EMI for 1 crore at 7.5% for 30 years",
+    "category": "Calculator",
+    "time": 2.179,
+    "response_type": "finance_response",
+    "data": {
+      "loan_amount": 10000000,
+      "interest_rate": 7.5,
+      "interest_rate_display": "7.5%",
+      "tenure": "30 years",
+      "tenure_years": 30,
+      "tenure_months": 360,
+      "monthly_emi": 69921.0,
+      "total_payment": 25171722.0,
+      "total_interest": 15171722.0,
+      "principal_percentage": 39.73,
+      "interest_percentage": 60.27,
+      "calculation_breakdown": {
+        "step1_loan_amount": 10000000,
+        "step2_monthly_interest_rate": 0.625,
+        "step3_total_months": 360,
+        "step4_monthly_emi": 69921.0,
+        "step5_total_payment": 25171722.0,
+        "step6_total_interest": 15171722.0,
+        "step7_interest_to_principal_ratio": 1.52
+      },
+      "yearly_breakdown": [
+        {
+          "year": 1,
+          "principal_paid": 92183.0,
+          "interest_paid": 746874.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9907817.0
+        },
+        {
+          "year": 2,
+          "principal_paid": 99340.0,
+          "interest_paid": 739718.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9808477.0
+        },
+        {
+          "year": 3,
+          "principal_paid": 107052.0,
+          "interest_paid": 732006.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9701425.0
+        },
+        {
+          "year": 4,
+          "principal_paid": 115363.0,
+          "interest_paid": 723695.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9586062.0
+        },
+        {
+          "year": 5,
+          "principal_paid": 124319.0,
+          "interest_paid": 714739.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9461744.0
+        },
+        {
+          "year": 6,
+          "principal_paid": 133970.0,
+          "interest_paid": 705088.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9327774.0
+        },
+        {
+          "year": 7,
+          "principal_paid": 144370.0,
+          "interest_paid": 694687.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9183404.0
+        },
+        {
+          "year": 8,
+          "principal_paid": 155578.0,
+          "interest_paid": 683479.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9027826.0
+        },
+        {
+          "year": 9,
+          "principal_paid": 167656.0,
+          "interest_paid": 671402.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 8860170.0
+        },
+        {
+          "year": 10,
+          "principal_paid": 180671.0,
+          "interest_paid": 658386.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 8679499.0
+        },
+        {
+          "year": 11,
+          "principal_paid": 194697.0,
+          "interest_paid": 644360.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 8484801.0
+        },
+        {
+          "year": 12,
+          "principal_paid": 209812.0,
+          "interest_paid": 629245.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 8274989.0
+        },
+        {
+          "year": 13,
+          "principal_paid": 226101.0,
+          "interest_paid": 612957.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 8048889.0
+        },
+        {
+          "year": 14,
+          "principal_paid": 243653.0,
+          "interest_paid": 595404.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 7805235.0
+        },
+        {
+          "year": 15,
+          "principal_paid": 262569.0,
+          "interest_paid": 576489.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 7542667.0
+        },
+        {
+          "year": 16,
+          "principal_paid": 282953.0,
+          "interest_paid": 556105.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 7259714.0
+        },
+        {
+          "year": 17,
+          "principal_paid": 304919.0,
+          "interest_paid": 534138.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 6954795.0
+        },
+        {
+          "year": 18,
+          "principal_paid": 328591.0,
+          "interest_paid": 510467.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 6626204.0
+        },
+        {
+          "year": 19,
+          "principal_paid": 354100.0,
+          "interest_paid": 484957.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 6272104.0
+        },
+        {
+          "year": 20,
+          "principal_paid": 381590.0,
+          "interest_paid": 457468.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 5890515.0
+        },
+        {
+          "year": 21,
+          "principal_paid": 411213.0,
+          "interest_paid": 427844.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 5479301.0
+        },
+        {
+          "year": 22,
+          "principal_paid": 443137.0,
+          "interest_paid": 395920.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 5036164.0
+        },
+        {
+          "year": 23,
+          "principal_paid": 477539.0,
+          "interest_paid": 361518.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 4558625.0
+        },
+        {
+          "year": 24,
+          "principal_paid": 514612.0,
+          "interest_paid": 324446.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 4044014.0
+        },
+        {
+          "year": 25,
+          "principal_paid": 554562.0,
+          "interest_paid": 284495.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 3489452.0
+        },
+        {
+          "year": 26,
+          "principal_paid": 597614.0,
+          "interest_paid": 241443.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 2891837.0
+        },
+        {
+          "year": 27,
+          "principal_paid": 644009.0,
+          "interest_paid": 195049.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 2247829.0
+        },
+        {
+          "year": 28,
+          "principal_paid": 694005.0,
+          "interest_paid": 145053.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 1553824.0
+        },
+        {
+          "year": 29,
+          "principal_paid": 747882.0,
+          "interest_paid": 91175.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 805942.0
+        },
+        {
+          "year": 30,
+          "principal_paid": 805942.0,
+          "interest_paid": 33115.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 0.0
+        }
+      ],
+      "milestones": {
+        "year_1": {
+          "year": 1,
+          "principal_paid": 92183.0,
+          "interest_paid": 746874.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9907817.0
+        },
+        "year_5": {
+          "year": 5,
+          "principal_paid": 124319.0,
+          "interest_paid": 714739.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 9461744.0
+        },
+        "year_10": {
+          "year": 10,
+          "principal_paid": 180671.0,
+          "interest_paid": 658386.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 8679499.0
+        },
+        "year_15": {
+          "year": 15,
+          "principal_paid": 262569.0,
+          "interest_paid": 576489.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 7542667.0
+        },
+        "year_20": {
+          "year": 20,
+          "principal_paid": 381590.0,
+          "interest_paid": 457468.0,
+          "total_paid": 839057.0,
+          "remaining_balance": 5890515.0
+        }
+      },
+      "summary": {
+        "first_year_principal": 92183.0,
+        "first_year_interest": 746874.0,
+        "last_year_principal": 805942.0,
+        "last_year_interest": 33115.0
+      }
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "Retirement corpus for age 22, expense 25k",
+    "category": "Retirement",
+    "time": 3.538,
+    "response_type": "finance_response",
+    "data": {
+      "current_age": 22,
+      "retirement_age": 60,
+      "years_to_retirement": 38,
+      "current_monthly_expense": 25000,
+      "future_monthly_expense": 228856.0,
+      "corpus_needed": 42050136.0,
+      "monthly_sip_required": 4504.0,
+      "total_sip_investment": 2053701.0,
+      "inflation_rate": 0.06,
+      "assumed_sip_return": 0.12,
+      "assumed_post_retirement_return": 0.04,
+      "post_retirement_years": 25,
+      "calculation_breakdown": {
+        "step1_years_to_retirement": 38,
+        "step2_inflation_multiplier": 9.15,
+        "step3_future_monthly_expense": 228856.0,
+        "step4_annual_expense_at_retirement": 2746276.0,
+        "step5_total_for_25_years": 68656893.0,
+        "step6_discount_factor": 1.63,
+        "step7_final_corpus": 42050136.0
+      }
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "I have 5 lakh to invest, build a portfolio",
+    "category": "Portfolio",
+    "time": 13.222,
+    "response_type": "finance_response",
+    "data": {
+      "total_investment": 500000,
+      "allocation": {
+        "large cap": 0.4,
+        "mid cap": 0.3,
+        "small cap": 0.2,
+        "elss": 0.1
+      },
+      "recommended_funds": {
+        "large cap": {
+          "allocation_percentage": 40.0,
+          "monthly_amount": 200000.0,
+          "top_funds": [
+            {
+              "name": "CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - GROWTH OPTION",
+              "nav": 74.94,
+              "fund_house": "Canara Robeco Mutual Fund",
+              "returns_1y": 8.56,
+              "returns_3y": 18.36,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            },
+            {
+              "name": "CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment)",
+              "nav": 57.47,
+              "fund_house": "Canara Robeco Mutual Fund",
+              "returns_1y": 3.29,
+              "returns_3y": 16.02,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            },
+            {
+              "name": "CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment)",
+              "nav": 134.93,
+              "fund_house": "Canara Robeco Mutual Fund",
+              "returns_1y": 0.81,
+              "returns_3y": 14.26,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            }
+          ]
+        },
+        "mid cap": {
+          "allocation_percentage": 30.0,
+          "monthly_amount": 150000.0,
+          "top_funds": [
+            {
+              "name": "CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment)",
+              "nav": 134.93,
+              "fund_house": "Canara Robeco Mutual Fund",
+              "returns_1y": 0.81,
+              "returns_3y": 14.26,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            },
+            {
+              "name": "CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - GROWTH OPTION",
+              "nav": 297.06,
+              "fund_house": "Canara Robeco Mutual Fund",
+              "returns_1y": 5.9,
+              "returns_3y": 18.51,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            },
+            {
+              "name": "Bandhan Large & Mid Cap Fund - Direct Plan - Growth",
+              "nav": 164.778,
+              "fund_house": "Bandhan Mutual Fund",
+              "returns_1y": 9.28,
+              "returns_3y": 26.93,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            }
+          ]
+        },
+        "small cap": {
+          "allocation_percentage": 20.0,
+          "monthly_amount": 100000.0,
+          "top_funds": [
+            {
+              "name": "Franklin India Small Cap Fund - Direct - IDCW",
+              "nav": 56.0133,
+              "fund_house": "Franklin Templeton Mutual Fund",
+              "returns_1y": -13.02,
+              "returns_3y": 12.37,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            },
+            {
+              "name": "Franklin India Small Cap Fund - Direct - Growth",
+              "nav": 193.4514,
+              "fund_house": "Franklin Templeton Mutual Fund",
+              "returns_1y": -3.14,
+              "returns_3y": 23.46,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            },
+            {
+              "name": "NIPPON INDIA SMALL CAP FUND - Direct Plan - IDCW Option",
+              "nav": 104.805,
+              "fund_house": "Nippon India Mutual Fund",
+              "returns_1y": -9.9,
+              "returns_3y": 14.87,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            }
+          ]
+        },
+        "elss": {
+          "allocation_percentage": 10.0,
+          "monthly_amount": 50000.0,
+          "top_funds": [
+            {
+              "name": "Quantum ELSS Tax Saver Fund - Direct Plan Growth Option",
+              "nav": 132.47,
+              "fund_house": "Quantum Mutual Fund",
+              "returns_1y": 3.69,
+              "returns_3y": 19.85,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            },
+            {
+              "name": "Quantum ELSS Tax Saver Fund - Direct Plan IDCW",
+              "nav": 131.61,
+              "fund_house": "Quantum Mutual Fund",
+              "returns_1y": 3.01,
+              "returns_3y": 19.59,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            },
+            {
+              "name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - GROWTH OPTION",
+              "nav": 202.31,
+              "fund_house": "Canara Robeco Mutual Fund",
+              "returns_1y": 6.17,
+              "returns_3y": 17.69,
+              "data_source": "MFApi",
+              "plan_type": "direct"
+            }
+          ]
+        }
+      },
+      "profile": {
+        "age": 30,
+        "risk_appetite": "moderate",
+        "equity_allocation": 70,
+        "debt_allocation": 30
+      }
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "What is asset allocation in mutual funds",
+    "category": "Knowledge",
+    "time": 3.961,
+    "response_type": "conversational",
+    "data": {},
+    "status": "PASS"
+  },
+  {
+    "query": "Explain 80C deduction",
+    "category": "Knowledge",
+    "time": 8.217,
+    "response_type": "conversational",
+    "data": {},
+    "status": "PASS"
+  },
+  {
+    "query": "Difference between index funds and ETFs",
+    "category": "Knowledge",
+    "time": 0.914,
+    "response_type": "finance_response",
+    "data": {
+      "error": "ETF 'Difference between index funds and ETFs' not found"
+    },
+    "status": "PASS"
+  },
+  {
+    "query": "What are guilt funds",
+    "category": "Knowledge",
+    "time": 11.565,
+    "response_type": "finance_response",
+    "data": {
+      "success": true,
+      "category": "Ethical",
+      "funds": [
+        {
+          "name": "Taurus Ethical Fund - Direct Plan - Growth",
+          "nav": 146.17,
+          "fund_house": "Taurus Mutual Fund",
+          "returns_1y": 0.41,
+          "returns_3y": 16.61,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
+          "nav": 98.12,
+          "fund_house": "Taurus Mutual Fund",
+          "returns_1y": 0.41,
+          "returns_3y": 16.61,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Taurus Ethical Fund-Direct Plan-Bonus Option #",
+          "nav": 47.9,
+          "fund_house": "Taurus Mutual Fund",
+          "returns_1y": 0.42,
+          "returns_3y": 16.61,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Tata Ethical Fund- Direct Plan - Payout of IDCW Option",
+          "nav": 243.5703,
+          "fund_house": "Tata Mutual Fund",
+          "returns_1y": -2.67,
+          "returns_3y": 13.45,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Tata Ethical Fund -Direct Plan- Growth Option",
+          "nav": 443.6877,
+          "fund_house": "Tata Mutual Fund",
+          "returns_1y": -2.67,
+          "returns_3y": 13.45,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "Quantum Ethical Fund - Direct Plan Growth Option",
+          "nav": 10.02,
+          "fund_house": "Quantum Mutual Fund",
+          "returns_1y": 0.0,
+          "returns_3y": 0.0,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "THE WEALTH COMPANY ETHICAL FUND DIRECT GROWTH",
+          "nav": 9.94,
+          "fund_house": "The Wealth Company Mutual Fund",
+          "returns_1y": 0.0,
+          "returns_3y": 0.0,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        },
+        {
+          "name": "THE WEALTH COMPANY ETHICAL FUND DIRECT IDCW",
+          "nav": 9.94,
+          "fund_house": "The Wealth Company Mutual Fund",
+          "returns_1y": 0.0,
+          "returns_3y": 0.0,
+          "data_source": "MFApi",
+          "plan_type": "direct"
+        }
+      ],
+      "data_source": "MFApi"
+    },
+    "status": "PASS"
+  }
+]
